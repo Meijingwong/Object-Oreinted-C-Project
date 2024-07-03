@@ -1,14 +1,26 @@
-Patient Name       : iqi
-Age                : 45
-Phone Number       : 012648507
-Medicine Type      : Others with prescription
-Medical Certificate: Need
-Total Price        : RM31.00
---------------------------
-Patient Name       : a
-Age                : 284
-Phone Number       : 23456
-Medicine Type      : Vitamins and Supplements
-Medical Certificate: No need
-Total Price        : RM11.00
---------------------------
+
+
+------Rent A Wheelchair ------
+Wheelchair Type   : Manual Wheelchair
+Days Rented       : 23
+Price             : RM 345.00
+
+------Rent A Wheelchair ------
+Wheelchair Type   : Manual Wheelchair
+Days Rented       : 34
+Price             : RM 510.00
+
+------Rent A Wheelchair ------
+Wheelchair Type   : Manual Wheelchair
+Days Rented       : 34
+Price             : RM 510.00
+
+------Rent A Wheelchair ------
+Wheelchair Type   : Manual Wheelchair
+Days Rented       : 56
+Price             : RM 840.00
+
+------Rent A Wheelchair ------
+Wheelchair Type   : Manual Wheelchair
+Days Rented       : 3
+Price             : RM 45.00
